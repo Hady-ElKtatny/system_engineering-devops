@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script lists all running processes with a tree-like hierarchy
+
+ps -e -f --forest
